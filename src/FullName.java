@@ -6,7 +6,7 @@ public class FullName
      String lastName= "Limbashiya";
      String fullName= firstName + lastName;
      System.out.println( fullName );
-
+        System.out.println("I like git");21
     }
 
 }
